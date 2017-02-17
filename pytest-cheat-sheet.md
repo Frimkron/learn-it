@@ -1,9 +1,9 @@
 # py.test cheat-sheet
 
---------------|----------------------------------------------------
-`--version`   | shows where pytest was imported from
-`--fixtures`  | show available builtin function arguments
-`-h | --help` | show help on command line and config file options
+-------------- ----------------------------------------------------
+`--version`    shows where pytest was imported from
+`--fixtures`   show available builtin function arguments
+`-h`/`--help`  show help on command line and config file options
 
 ``` 
 
